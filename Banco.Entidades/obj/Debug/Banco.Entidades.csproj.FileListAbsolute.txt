@@ -1,0 +1,6 @@
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Entidades\bin\Debug\Banco.Entidades.dll
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Entidades\bin\Debug\Banco.Entidades.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Entidades\obj\Debug\Banco.Entidades.csproj.AssemblyReference.cache
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Entidades\obj\Debug\Banco.Entidades.csproj.CoreCompileInputs.cache
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Entidades\obj\Debug\Banco.Entidades.dll
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Entidades\obj\Debug\Banco.Entidades.pdb
