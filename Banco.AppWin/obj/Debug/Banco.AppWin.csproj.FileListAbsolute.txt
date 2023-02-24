@@ -3,9 +3,16 @@ D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Ba
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\bin\Debug\Banco.AppWin.pdb
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.AssemblyReference.cache
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.SuggestedBindingRedirects.cache
-D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.Form1.resources
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.Properties.Resources.resources
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.GenerateResource.cache
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CoreCompileInputs.cache
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.exe
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\bin\Debug\Banco.Entidades.dll
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\bin\Debug\Banco.Negocio.dll
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\bin\Debug\Banco.Data.dll
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\bin\Debug\Banco.Entidades.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\bin\Debug\Banco.Negocio.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\bin\Debug\Banco.Data.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.frmCliente.resources
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CopyComplete

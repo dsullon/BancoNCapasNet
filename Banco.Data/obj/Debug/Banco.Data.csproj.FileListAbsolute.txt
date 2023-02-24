@@ -1,0 +1,9 @@
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\bin\Debug\Banco.Data.dll
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\bin\Debug\Banco.Data.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\bin\Debug\Banco.Entidades.dll
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\bin\Debug\Banco.Entidades.pdb
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\obj\Debug\Banco.Data.csproj.AssemblyReference.cache
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\obj\Debug\Banco.Data.csproj.CoreCompileInputs.cache
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\obj\Debug\Banco.Data.csproj.CopyComplete
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\obj\Debug\Banco.Data.dll
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.Data\obj\Debug\Banco.Data.pdb
