@@ -23,5 +23,12 @@ namespace Banco.AppWin
             frm.MdiParent = this;
             frm.Show();
         }
+
+        private void abrirPrestamo(object sender, EventArgs e)
+        {
+            var frm = new frmPrestamo();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }

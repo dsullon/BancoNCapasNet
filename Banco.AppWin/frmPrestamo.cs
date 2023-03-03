@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Banco.Entidades;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,13 @@ namespace Banco.AppWin
         public frmPrestamo()
         {
             InitializeComponent();
+        }
+
+        private void nuevoPrestamo(object sender, EventArgs e)
+        {
+            var nuevoPrestamo = new Prestamo();
+            var frm = new frmPrestamoEdit(nuevoPrestamo);
+            frm.Show();
         }
     }
 }

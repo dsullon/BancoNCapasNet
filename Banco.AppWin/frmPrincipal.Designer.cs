@@ -99,6 +99,7 @@
             this.tsmiPrestamo.Name = "tsmiPrestamo";
             this.tsmiPrestamo.Size = new System.Drawing.Size(180, 22);
             this.tsmiPrestamo.Text = "Prestamo";
+            this.tsmiPrestamo.Click += new System.EventHandler(this.abrirPrestamo);
             // 
             // frmPrincipal
             // 

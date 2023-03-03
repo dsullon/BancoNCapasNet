@@ -75,6 +75,7 @@
             this.btnGrabar.TabIndex = 34;
             this.btnGrabar.Text = "Grabar";
             this.btnGrabar.UseVisualStyleBackColor = true;
+            this.btnGrabar.Click += new System.EventHandler(this.grabarDatos);
             // 
             // txtPlazo
             // 
@@ -162,6 +163,7 @@
             // 
             this.txtFecha.Location = new System.Drawing.Point(405, 12);
             this.txtFecha.Name = "txtFecha";
+            this.txtFecha.ReadOnly = true;
             this.txtFecha.Size = new System.Drawing.Size(144, 20);
             this.txtFecha.TabIndex = 23;
             // 
@@ -178,6 +180,7 @@
             // 
             this.txtNumero.Location = new System.Drawing.Point(114, 12);
             this.txtNumero.Name = "txtNumero";
+            this.txtNumero.ReadOnly = true;
             this.txtNumero.Size = new System.Drawing.Size(239, 20);
             this.txtNumero.TabIndex = 21;
             // 
@@ -190,7 +193,7 @@
             this.label1.TabIndex = 20;
             this.label1.Text = "Numero:";
             // 
-            // frmPrestamo
+            // frmPrestamoEdit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -212,9 +215,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtNumero);
             this.Controls.Add(this.label1);
-            this.Name = "frmPrestamo";
+            this.Name = "frmPrestamoEdit";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Prestamo";
+            this.Load += new System.EventHandler(this.cargarFormulario);
             this.ResumeLayout(false);
             this.PerformLayout();
 

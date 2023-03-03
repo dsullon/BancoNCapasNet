@@ -41,7 +41,7 @@ namespace Banco.AppWin
             
             if(frm.ShowDialog() == DialogResult.OK)
             {
-               var resultado = ClienteBL.Insertar(nuevoCliente);
+                var resultado = ClienteBL.Insertar(nuevoCliente);
                 if (resultado)
                 {
                     MessageBox.Show("Datos registrados", "Sistemas",

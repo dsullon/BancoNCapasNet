@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClienteDB.cs" />
+    <Compile Include="DetallePrestamoDB.cs" />
+    <Compile Include="PrestamoDB.cs" />
     <Compile Include="TipoClienteDB.cs" />
     <Compile Include="TipoDocumentoDB.cs" />
     <Compile Include="UtilDB.cs" />
