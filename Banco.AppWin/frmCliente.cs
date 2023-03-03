@@ -36,11 +36,22 @@ namespace Banco.AppWin
 
         private void nuevoRegistro(object sender, EventArgs e)
         {
-            var frm = new frmClienteEdit();
             var nuevoCliente = new Cliente();
+            var frm = new frmClienteEdit(nuevoCliente);
+            
             if(frm.ShowDialog() == DialogResult.OK)
             {
-                var resultado = ClienteBL.Insertar(nuevoCliente);
+               var resultado = ClienteBL.Insertar(nuevoCliente);
+                if (resultado)
+                {
+                    MessageBox.Show("Datos registrados", "Sistemas",
+                        MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    cargarDatos();
+                } else
+                {
+                    MessageBox.Show("No se ha podido registrar los datos", "Sistemas",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
             }
         }
     }

@@ -10,7 +10,6 @@ namespace Banco.Data
 {
     public class ClienteDB
     {
-        // TODO: Listar todos los clientes
         public List<Cliente> Listar()
         {
             var listado = new List<Cliente>();
@@ -32,7 +31,7 @@ namespace Banco.Data
                                 cliente.ID = (int)lector["ID"];
                                 cliente.Nombres = lector["Nombres"].ToString();
                                 cliente.Apellidos = lector["Apellidos"].ToString();
-                                cliente.RazonSocial = lector["RazonSocial"].ToString();
+                                //cliente.RazonSocial = lector["RazonSocial"].ToString();
                                 cliente.NumeroDocumento = lector["NumeroDoc"].ToString();
                                 cliente.IdTipoDocumento = (int) lector["IdTipoDoc"];
                                 cliente.IdTipoCliente = (int)lector["IdTipoCliente"];
