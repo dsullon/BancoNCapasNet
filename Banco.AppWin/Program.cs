@@ -16,7 +16,7 @@ namespace Banco.AppWin
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmCliente());
+            Application.Run(new frmPrincipal());
         }
     }
 }

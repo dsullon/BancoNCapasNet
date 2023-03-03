@@ -16,3 +16,6 @@ D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Ba
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\bin\Debug\Banco.Data.pdb
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.frmCliente.resources
 D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.csproj.CopyComplete
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.frmClienteEdit.resources
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.frmPrincipal.resources
+D:\Personal\CLASES\SISE\CURSOS\Soluciones Empresariales\ENE-23\Ejemplos\Banco\Banco.AppWin\obj\Debug\Banco.AppWin.frmPrestamo.resources
